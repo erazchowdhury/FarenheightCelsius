@@ -52,7 +52,7 @@ public class Converter {
             } while (answer == 1);
         System.out.println("-------------------------------Good bye, see you soon---------------------------");
 
-        System.out.println("Hello World");
+        System.out.println("Turgut Tezir");
     }
 
 }
